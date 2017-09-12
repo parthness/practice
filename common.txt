@@ -1,1 +1,2 @@
 this is common file.
+this is server.
